@@ -24,7 +24,7 @@ Tentando migrar para QA
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="30 " height="30"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="30 " height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/cypressio/cypressio-original.svg" alt="Python" width="30 " height="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="cypress" width="30 " height="30"/> 
 </p>
 
 ### Ferramentas   
