@@ -16,7 +16,7 @@ Tentando migrar para QA
 
 ## <h1><samp> Minhas Skills </samp></h1>
 
-### Frontend
+### Frontend, QA
 <p align="left">  
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="30" height="30"/>
@@ -24,6 +24,7 @@ Tentando migrar para QA
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="30 " height="30"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="30 " height="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/cypressio/cypressio-original.svg" alt="Python" width="30 " height="30"/> 
 </p>
 
 ### Ferramentas   
